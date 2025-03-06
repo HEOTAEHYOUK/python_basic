@@ -9,3 +9,7 @@ print(a)
 b = input('숫자를 입력하세요 >> ')
 print(b)
 print(type(b))
+# git rm -r --cashed . 
+# git add .
+# git commit -m ""
+# hehe
